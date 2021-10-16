@@ -5,7 +5,7 @@
 <h3 align="center">🛠 TECH STACK 🛠</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-    <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Html5&logoColor=white"/>
