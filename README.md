@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Sangwon Yoon
 
+---
+
 <h3 align="center">🛠 TECH STACK 🛠</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
@@ -13,8 +15,12 @@
     <br/>
     <img src="https://img.shields.io/badge/Kotlin-F37F40?style=flat&logo=Kotlin&logoColor=white"/>
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangwonYoon&layout=compact)](https://github.com/SangwonYoon/github-readme-stats)
+
+---
 
 <h3 align="center"><b> Solved.ac Tier </b></h3>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iandr0805)](https://solved.ac/iandr0805/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iandr0805)](https://solved.ac/iandr0805/)
