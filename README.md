@@ -13,13 +13,28 @@
     <br/>
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+    
+---
+
+### Experiences
+> * __NLP AI Developer__, [BoostCamp AI Tech](https://boostcamp.connect.or.kr/) / 2023.03 ~
+> * __Backend Engineer__, [Storelink](https://storelink.io/#/pages/home) / 2022.06 ~ 2022.08
+> * __Algorithm Problem Creator__, [grepp](https://www.grepp.co/) / 2021.12 ~ 2022.02
+> * __Department of Computer Science and Engineering__, Kookmin.Univ / 2018.03 ~
+
+---
+    
+### Certifications
+> * __AWS Certified Solutions Architect - Associate__ (2023.02.24)
+> * __SQLD__ (2022.06.24)
+> * __ADsP (2022.09.23)
+    
+----
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangwonYoon&layout=compact)](https://github.com/SangwonYoon/github-readme-stats)
 
 ---
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SangwonYoon&layout=compact)](https://github.com/SangwonYoon/github-readme-stats)
+<b> Baekjoon Tier </b>
 
----
-
-<h3 align="center"><b> Baekjoon Tier </b></h3>
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iandr0805)](https://solved.ac/iandr0805/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=iandr0805)](https://solved.ac/iandr0805/)
