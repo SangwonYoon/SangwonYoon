@@ -27,7 +27,7 @@
 ### Certifications
 > * __AWS Certified Solutions Architect - Associate__ (2023.02.24)
 > * __SQLD__ (2022.06.24)
-> * __ADsP (2022.09.23)
+> * __ADsP__ (2022.09.23)
     
 ----
 
