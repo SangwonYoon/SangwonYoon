@@ -16,7 +16,7 @@
 ---
 
 ### Experiences
-> * __NLP Track__, [BoostCamp AI Tech](https://boostcamp.connect.or.kr/) / 2023.03 ~
+> * __NLP Track__, [BoostCamp AI Tech](https://boostcamp.connect.or.kr/) / 2023.03 ~ 2023.08
 > * __Backend Engineer__, [Storelink](https://storelink.io/#/pages/home) / 2022.06 ~ 2022.08
 > * __Algorithm Problem Creator__, [grepp](https://www.grepp.co/) / 2021.12 ~ 2022.02
 > * __Department of Computer Science and Engineering__, Kookmin.Univ / 2018.03 ~
